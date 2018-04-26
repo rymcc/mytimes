@@ -139,4 +139,24 @@ a {
 /*right column section*/
 .rightcolumn {
   width: 240;
+  font-family: Veranda;
+}
+
+.newsbitestitle p {
+  font-size: 16px;
+  font-weight: bold;
+  padding-left: 10px;
+  text-align: center;
+}
+
+.newsbiteslist p {
+  background-color: WhiteSmoke;
+  font-family: Verdana;
+  font-size: 12px;
+  color: DimGray;
+  border-bottom: 1px solid black;
+  height: 18px;
+  margin: 0px;
+  padding-left: 10px;
+  text-align: left;
 }
